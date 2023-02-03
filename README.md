@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[Codewars](https://www.codewars.com/users/SavaCool122)
+[My Codewars profile](https://www.codewars.com/users/SavaCool122)
